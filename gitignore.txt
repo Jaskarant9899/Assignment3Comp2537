@@ -1,4 +1,0 @@
-Members_site_code.zip
-My_checklist.txt
-Netlify_app_URL.txt
-Video_demo_URL
